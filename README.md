@@ -1,4 +1,3 @@
-# TSF-task-1
 # TSF Task 1: Prediction using Supervised ML
 ## #GRIPAPRIL23
 ### **Simple Linear Regression**
